@@ -1,4 +1,4 @@
- Hi 👋 I’m @Re-Yan a Computer Science student learning software development and is currently focusing on the C programming language (September 2022). 
+ Hi 👋 I’m @Re-Yan a College student learning software development as a hobby and is currently focusing on Web Development. 
 
 DISCLAIMER: Most of the projects here are going to be unpolished and a bit messy, but im hoping to improve day by day! 
 
